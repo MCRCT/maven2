@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.terasology</groupId>
+  <artifactId>native-bullet</artifactId>
+  <versioning>
+    <latest>0.2.15-SNAPSHOT</latest>
+    <versions>
+      <version>0.2.15-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20200706014526</lastUpdated>
+  </versioning>
+</metadata>
